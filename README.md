@@ -1,4 +1,4 @@
-# working-papers
+# Working Papers
 
 This is a test
 
