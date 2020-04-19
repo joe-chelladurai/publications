@@ -31,6 +31,10 @@ Testing Testing: Classical Test Theory versus Item-Response Theory
 
 [The Ways of Religious Coping: Exploratory and Confirmatory Factor Analysis using Mid Life in the United States Data]( https://joe-chelladurai.github.io/factor-analysis)
 
+- [x] Analyze Data
+- [ ] Write Introduction & Discussion
+- [ ] Manuscript in Preparation 
+
 Latent Profile Analysis, Growth Modeling using R lavaan
 
 To Forgive is Divine: How Religion Influences Forgiveness in Religious Families:
