@@ -1,6 +1,6 @@
 # Publications
 
-##Journal Articles
+## Journal Articles
 
 Text-map Analysis: An Introduction to the Method and an Examination of Relationship Self-Regulation and Religion
 
@@ -9,7 +9,8 @@ The Family That Prays Together: Relational Processes Associated with Regular Fam
 Kept Together by Faith: Confession & Forgiveness In Catholic and Orthodox Christian Families
 
 
-##Working Papers
+## Working Papers
+
 ### Conceptual
 
 Towards a More Healthy Religiosity: Conceptual Analysis & Synthesis
